@@ -6,7 +6,7 @@ title: 依赖
 * LNMP/LAMP(php5.4+)
     * php需要开启pdo_mysql，exec函数执行
 * Composer
-    * 如果国内环境安装极慢，可以直接下载[vendor](http://pan.baidu.com/s/1c0wiuyc)解压到项目根目录
+    * 如果国内环境安装极慢，可以直接下载[vendor](https://pan.baidu.com/s/1kU6gdZD)解压到项目根目录
 * ansible
 
 ## 安装
