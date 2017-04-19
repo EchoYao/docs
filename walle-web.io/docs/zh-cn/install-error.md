@@ -5,7 +5,7 @@ composer安装速度慢
 ----------------
 好吧，我已经猜到会有人问有没有现成的，有！
 
-下载[百度网盘](http://pan.baidu.com/s/1c0wiuyc)，解压vendor放到walle-web根目录即可。
+下载[百度网盘](https://pan.baidu.com/s/1kU6gdZD)，解压vendor放到walle-web根目录即可。
 
 
 第一次使用composer可能会出现的问题：1 没有添加git的token
